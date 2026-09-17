@@ -17,18 +17,21 @@
 
 ## Примеры того, какого вида окон можно добиться
 
-https://github.com/user-attachments/assets/a387b5e3-0073-4575-a9f8-48f7f66b8b55
+> Вы можете использовать расширения, такие как Blur my Shell или Liquid Glass чтобы добиться подобных эффектов
 
-https://github.com/user-attachments/assets/419e3d0b-b892-409a-973f-dd467d43a78a
 
-https://github.com/user-attachments/assets/e31e8996-9928-451f-bd0d-6645ed5af418
-
-https://github.com/user-attachments/assets/771f7f0b-a93c-43d4-b462-f13ea53eea13
-
-https://github.com/user-attachments/assets/4f71b882-0411-4fcb-916c-3cf466d480b5
-
-https://github.com/user-attachments/assets/38779ad0-1555-4071-bac4-3a3fe4cc3b03
+https://github.com/user-attachments/assets/20957cbb-8f97-43ae-9997-d3e764162333
 
 https://github.com/user-attachments/assets/0ac22061-e8a6-421f-862c-8e53841d9137
 
-https://github.com/user-attachments/assets/20957cbb-8f97-43ae-9997-d3e764162333
+https://github.com/user-attachments/assets/38779ad0-1555-4071-bac4-3a3fe4cc3b03
+
+https://github.com/user-attachments/assets/4f71b882-0411-4fcb-916c-3cf466d480b5
+
+https://github.com/user-attachments/assets/771f7f0b-a93c-43d4-b462-f13ea53eea13
+
+https://github.com/user-attachments/assets/e31e8996-9928-451f-bd0d-6645ed5af418
+
+https://github.com/user-attachments/assets/419e3d0b-b892-409a-973f-dd467d43a78a
+
+https://github.com/user-attachments/assets/a387b5e3-0073-4575-a9f8-48f7f66b8b55
