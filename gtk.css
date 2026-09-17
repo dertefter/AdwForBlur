@@ -1,0 +1,83 @@
+window {
+    background: color-mix(in srgb, @light_1 55%, @accent_color 9%);
+}
+
+.sidebar-pane,
+.sidebar,
+.navigation-sidebar {
+    background: transparent;
+}
+
+.content-pane {
+    background: color-mix(in srgb, @light_1 70%, @accent_color 1%);
+}
+
+
+.card {
+    background-color: color-mix(in srgb, @light_1 70%, @accent_color 1%);
+}
+
+
+list.boxed-list,
+list.boxed-list-separate > row {
+    background-color: color-mix(in srgb, @light_1 70%, @accent_color 1%);
+}
+
+button.flat:checked,
+toggle-group > toggle:checked,
+tab:selected,
+row:selected {
+    background: color-mix(in srgb, transparent, @accent_color 100%);
+    color: var(--accent-fg-color);
+}
+
+
+@media (prefers-color-scheme: dark) {
+
+    window {
+        background: color-mix(in srgb, @dark_5 55%, @accent_color 3%);
+    }
+
+    .sidebar-pane,
+    .sidebar,
+    .navigation-sidebar {
+        background: transparent;
+    }
+
+    .content-pane {
+        background: color-mix(in srgb, @dark_5 100%, @accent_color 100%);
+    }
+
+    .card {
+        background-color: color-mix(in srgb, @view_bg_color 70%, @accent_color 1%);
+    }
+
+    list.boxed-list,
+    list.boxed-list-separate > row {
+        background-color: color-mix(in srgb, @view_bg_color 80%, @accent_color 10%);
+    }
+
+    .content-pane {
+        background: color-mix(in srgb, @dark_5 70%, @accent_color 1%);
+    }
+
+    button.flat:checked,
+    toggle-group > toggle:checked,
+    tab:selected,
+    row:selected {
+        background: color-mix(in srgb, @accent_color 10%, @accent_color 70%);
+        box-shadow: 0 0 10px color-mix(in srgb, @accent_color 10%, @accent_color 70%);
+        color: @dark_5;
+    }
+
+    banner revealer widget {
+        background-color: color-mix(in srgb, @accent_bg_color 30%, transparent);
+    }
+
+    statuspage {
+        background: transparent;
+    }
+
+}
+
+
